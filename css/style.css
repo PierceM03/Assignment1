@@ -1,0 +1,90 @@
+
+.links_css{
+    text-decoration:none;
+    color: #000000;
+    border-style: outset;
+    background-color: #ffffff;
+    
+}
+
+blockquote {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 110%;
+    text-align: center;
+}
+
+body {
+    background-color: #323232;
+
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+
+div.my_face {
+   text-align: center;
+}
+
+p {
+    border: 5px rgb(0, 0, 0);
+    border-style: outset;
+    background-color: #242424;
+    text-align: center;
+    font-size: medium;
+    color: #ffffff;
+}
+
+nav {
+    border:solid 5px rgb(255, 0, 0);
+    background-color: rgb(255, 0, 0);
+    color:rgb(255, 0, 0);
+    text-align:center; 
+    
+}
+
+img{
+    border: none;
+}
+
+ol{
+    border:solid 5px rgb(0, 0, 0);
+    border-style: outset;
+    background-color: #242424;
+    color: rgb(255, 255, 255);
+}
+
+iframe{
+    border:solid 3px rgb(255, 0, 0);
+}
+
+blockquote {
+    border:solid 5px rgb(0, 0, 0);
+    border-style: outset;
+    color: rgb(255, 255, 255);
+}
+
+div.my_animals{
+    text-align: center
+    
+}
+
+div.my_interests{
+    text-align: center
+    
+}
+
+.web_links{
+    color: aqua;
+}
+
+footer{
+    color: #ffffff;
+    font-style: italic;
+}
